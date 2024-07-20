@@ -37,7 +37,7 @@ const Home = () => {
 								className='xl:w-16 xl:h-16 lg:w-12 lg:h-12 md:w-10 md:h-10 w-8 h-8 object-contain'
 							/>
 							<h2 className='font-bold lg:text-[1.8rem] md:text-[1.4rem] text-md text-gray-500'>
-								exslym
+								suransh
 							</h2>
 						</a>
 					</motion.header>
